@@ -17,5 +17,11 @@ Open PowerShell as an administrator and run the following command to install WSL
 
 ```powershell
 wsl --install -d Ubuntu-20.04
+```
 
 ## Installation
+
+1. Clone This Repository
+
+   ```bash
+   git clone https://github.com/YourUsername/YourRepository.git
