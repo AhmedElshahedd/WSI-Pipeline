@@ -21,7 +21,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
    ```bash
    nextflow run main.nf /path/to/whole-slide-images/directory
 
-Afterward completion of slide processing you can view the results in your web-browser simply by following the directions after typing:
+Afterward completion of slide processing you can view the results of HistoQC in your web-browser simply by following the directions after typing:
    ```bash
    python -m histoqc.ui
    ```
