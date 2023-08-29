@@ -12,7 +12,6 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 ## Installation
 1. Clone This Repository
-
    ```bash
    git clone https://github.com/AhmedElshahedd/WSI-Pipeline.git
 2. Navigate to the Repository
@@ -21,3 +20,9 @@ Before you begin, make sure you have the following prerequisites installed on yo
 3. Run the Nextflow workflow script by providing the path to the directory containing your whole slide images:
    ```bash
    nextflow run main.nf /path/to/whole-slide-images/directory
+
+Afterward completion of slide processing you can view the results in your web-browser simply by following the directions after typing:
+   ```bash
+   python -m histoqc.ui
+   ```
+Allowing you to browse to http://localhost:8000/ to select your results.tsv file.
