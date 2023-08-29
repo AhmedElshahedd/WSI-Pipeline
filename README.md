@@ -26,3 +26,8 @@ Afterward completion of slide processing you can view the results of HistoQC in 
    python -m histoqc.ui
    ```
 Allowing you to browse to http://localhost:8000/ to select your results.tsv file.
+
+## References
+- [Anonymization Tool (WSI-Anon)](https://gitlab.com/empaia/integration/wsi-anon)
+- [Docker](https://www.docker.com/get-started) (required for containerized processes)
+- [Nextflow](https://www.nextflow.io/docs/latest/getstarted.html) (required for workflow execution)
