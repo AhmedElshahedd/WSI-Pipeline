@@ -6,12 +6,11 @@ This repository contains a Nextflow workflow designed to process whole slide ima
 
 Before you begin, make sure you have the following prerequisites installed on your system:
 
+- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) (required for Linux environment on Windows)
 - [Docker](https://www.docker.com/get-started) (required for containerized processes)
 - [Nextflow](https://www.nextflow.io/docs/latest/getstarted.html) (required for workflow execution)
-- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) (required for Linux environment on Windows)
 
 ## Installation
-
 1. Clone This Repository
 
    ```bash
