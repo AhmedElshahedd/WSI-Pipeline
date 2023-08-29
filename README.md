@@ -24,4 +24,4 @@ wsl --install -d Ubuntu-20.04
 1. Clone This Repository
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/AhmedElshahedd/WSI-Pipeline.git
